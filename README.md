@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚽ The Match Logger
+## ⚽ The Match Logger
 
 ### *The ultimate football prediction & live score tracking platform*
 
