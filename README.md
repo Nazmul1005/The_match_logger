@@ -332,21 +332,6 @@ brew services stop postgresql@15
 
 ---
 
-## 🎨 Design System
-
-| Token | Value | Usage |
-|---|---|---|
-| `--bg-primary` | `#0a0e1a` | App background |
-| `--bg-card` | `rgba(255,255,255,0.04)` | Glassmorphism cards |
-| `--accent-green` | `#63cab7` | Primary accent, points, highlights |
-| `--accent-gold` | `#f5c842` | Exact score badge, achievements |
-| `--accent-red` | `#f56565` | Wrong prediction, live match |
-| `--font-sans` | `Inter` | All UI text |
-
-**Design principles:** Dark theme · Glassmorphism cards · Gradient accents · Micro-animations · Responsive grid
-
----
-
 ## 🧰 Tech Stack
 
 | Layer | Technology | Purpose |
